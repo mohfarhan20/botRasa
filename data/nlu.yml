@@ -98,5 +98,11 @@ nlu:
     - apakah DSC memiliki kegiatan yang akan dilakukan sebentar lagi atau dalam waktu dekat
     - sebutkan kegiatan DSC dalam waktu dekat
     - kegiata apa si yang akan dilakukan DSC dalam jangka waktu sebentar lagi atau dekat
+    - event dsc dalam waktu dekat
+    - 
+
+- intent : Goodbye
+  examples : |
+    - 
     
 
