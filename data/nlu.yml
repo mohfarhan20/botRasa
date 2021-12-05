@@ -99,10 +99,21 @@ nlu:
     - sebutkan kegiatan DSC dalam waktu dekat
     - kegiata apa si yang akan dilakukan DSC dalam jangka waktu sebentar lagi atau dekat
     - event dsc dalam waktu dekat
-    - 
+    - event dsc yang akan dilaksanakan sebentar lagi
+    - event dsc yang akan diselenggarakan dalam waktu sebentar lagi
+    - event dsc yang akan dilakukan dalam waktu dekat
+    - agenda/event DSC dalam waktu dekat
+    - event apa saja yang akan dilakukan DSC dalam waktu dekat
 
 - intent : Goodbye
   examples : |
-    - 
+    - terima kasih
+    - sampai jumpa
+    - sampai ketemu lagi 
+    - ketemu dilain kesempatan
+    - makasi
+    - makasih
+    - Thank You
+    - Good Bye
     
 
