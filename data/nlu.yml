@@ -104,6 +104,9 @@ nlu:
     - event dsc yang akan dilakukan dalam waktu dekat
     - agenda/event DSC dalam waktu dekat
     - event apa saja yang akan dilakukan DSC dalam waktu dekat
+    - acara yang akan dilaksanakan oleh DSC sebentar lagi
+    - acara yang akan dilaksanakan oleh DSC dalam waktu dekat
+    - acara yang diselenggarakan DSC dalam waktu dekat
 
 - intent : Goodbye
   examples : |
@@ -115,5 +118,7 @@ nlu:
     - makasih
     - Thank You
     - Good Bye
+    - see you later
+    - 
     
 
