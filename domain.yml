@@ -8,7 +8,7 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
-  - Kegiatan GDSC dalam waktu dekat
+  - Kegiatan_ComingSoon
   - Goodbye
 
 responses:
@@ -31,10 +31,10 @@ responses:
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
 
-  utter Kegiatan GDSC dalam waktu dekat :
+  utter_Kegiatan_ComingSoon :
   - text : "kegiatan GDSC dalam waktu dekat adalah android studyjam"
 
-  utter Goodbye:
+  utter_Goodbye:
   - text : "Terimakasih, sampai jumpa lagi"
 
 session_config:

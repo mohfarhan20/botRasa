@@ -90,7 +90,7 @@ nlu:
     - am I talking to a bot?
     - am I talking to a human?
 
-- intent : Kegiatan GDSC dalam waktu dekat
+- intent : Kegiatan_ComingSoon
   examples : |
     - apa saja kegiatan GDSC dalam waktu dekat
     - kegiatan apa saja yang berikutnya akan DSC lakukan dalam waktu dekat
@@ -107,6 +107,8 @@ nlu:
     - acara yang akan dilaksanakan oleh DSC sebentar lagi
     - acara yang akan dilaksanakan oleh DSC dalam waktu dekat
     - acara yang diselenggarakan DSC dalam waktu dekat
+    - acara dsc yang akan datang
+    
 
 - intent : Goodbye
   examples : |
