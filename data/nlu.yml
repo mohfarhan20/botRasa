@@ -108,6 +108,16 @@ nlu:
     - acara yang akan dilaksanakan oleh DSC dalam waktu dekat
     - acara yang diselenggarakan DSC dalam waktu dekat
     - acara dsc yang akan datang
+    - kegiatan DSC dalam waktu dekat
+    - acara DSC waktu dekat
+    - acara DSC coming soon
+    - acara coming soon
+    - event coming soon
+    - kegiatan coming soon
+    - apa kegiatan DSC dalam waktu dekat
+    - nama acara DSC yang akan datang
+    - nama kegiatan DSC dalam waktu dekat 
+    
     
 
 - intent : Goodbye
@@ -118,9 +128,7 @@ nlu:
     - ketemu dilain kesempatan
     - makasi
     - makasih
-    - Thank You
-    - Good Bye
-    - see you later
-    - 
+    - semoga harimu indah
+  
     
 
