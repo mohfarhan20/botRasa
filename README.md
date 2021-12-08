@@ -1,1 +1,4 @@
-Dibuat untuk kepentingan project Machine Learning Team GDSC UNSRI 2021
+## BOT Rasa untuk informasi seputar GDSC
+
+Dibuat untuk kepentingan penugasan GDSC Machine Learning 2021
+
