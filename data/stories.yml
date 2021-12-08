@@ -28,3 +28,12 @@ stories:
   - action: utter_did_that_help
   - intent: deny
   - action: utter_goodbye
+
+- story : kegiatan comingsoon
+  steps :
+  - intent : greet
+  - action : utter_greet
+  - intent : Kegiatan_ComingSoon
+  - action : utter_Kegiatan_ComingSoon
+  - intent : Goodbye
+  - action : utter_Goodbye
