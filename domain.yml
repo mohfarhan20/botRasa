@@ -32,10 +32,10 @@ responses:
   - text: "I am a bot, powered by Rasa."
 
   utter_Kegiatan_ComingSoon :
-  - text : "kegiatan GDSC dalam waktu dekat adalah android studyjam"
+  - text : "kegiatan GDSC dalam waktu dekat adalah WebDev Bootcamp"
 
   utter_Goodbye:
-  - text : "Terimakasih, sampai jumpa lagi"
+  - text : "Terimakasih telah menggunakan bot kami"
 
 session_config:
   session_expiration_time: 60
