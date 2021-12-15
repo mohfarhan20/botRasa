@@ -117,6 +117,8 @@ nlu:
     - apa kegiatan DSC dalam waktu dekat
     - nama acara DSC yang akan datang
     - nama kegiatan DSC dalam waktu dekat 
+    - yang akan dilakukan DSC dalam waktu dekat
+    - 
     
     
 
@@ -129,6 +131,9 @@ nlu:
     - makasi
     - makasih
     - semoga harimu indah
+    - arigatou
+    - selamat jalan
+    - 
   
     
 
